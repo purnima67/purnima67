@@ -2,7 +2,7 @@
 Passionate Frontend Developer<br>Currently working on nextjs, reactjs<br>Exploring AI-driven design solutions & frontend frameworks.
 
 
-## 🌐 Socials:
+## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/purnima.wagle.39) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waglepurnima) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/purnima-wagle-b74277331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purnimwagle167) 
 
 # 💻 Tech Stack:
